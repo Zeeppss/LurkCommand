@@ -1,0 +1,8 @@
+reload-message: "§8[§3Lurk§bCommand§8] §e| &aLurk Reloaded!"
+
+messages:
+
+#You can use the %player% %command% and %message% placeholders
+
+  lurk-toggled: true
+  lurk-message: "§8[§3Lurk§bCommand§8] §e| &7%player%: %command%"

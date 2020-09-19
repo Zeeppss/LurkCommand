@@ -1,0 +1,9 @@
+main: dev.zeeppss.lurkcommand.LurkCMD
+name: LurkCommand
+version: 1.0
+author: Zeeppss
+website: 'https://github.com/Zeeppss/LurkCommand'
+api-version: 1.8
+
+commands:
+  lurk:
